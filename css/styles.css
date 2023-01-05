@@ -1,0 +1,17 @@
+
+        body {
+            background-color: lightblue;
+            
+        }
+         
+        hr{
+            
+            border-style: none;
+            border-top-style: dotted;
+            border-width: 6px;
+            border-color: gray;
+            width:  2.8%;
+            
+        }
+        
+    
